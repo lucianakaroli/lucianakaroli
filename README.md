@@ -6,11 +6,10 @@ Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving
 <h2>📚 What I'm up to</h2>
 <br>🎓 Enhancing my development skills at Udemy.</br>
 <br>🔭 Working on awesome projects at PUCRS.</br>
-<br>🏆 Improving my skills and knowledge at Santander Bootcamp 2024.</br>
 
 
 <h2>🎲 Technologies I'm learning</h2>
-<br>💻 JavaScript, TypeScript, React, MongoDB, Node.js, SQL, Python, Java.</br>
+<br>💻 JavaScript, TypeScript, React, MongoDB, Node.js, SQL, Python.</br>
 <br>🤓 Also keen on learning Swift!!!</br>
 
 <h2>💬 Let's chat!</h2>
