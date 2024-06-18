@@ -9,8 +9,7 @@ Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving
 
 
 <h2>🎲 Technologies I'm learning</h2>
-<br>💻 JavaScript, TypeScript, React, MongoDB, Node.js, SQL, Python.</br>
-<br>🤓 Also keen on learning Swift!!!</br>
+<br>💻 JavaScript, TypeScript, React, Node.js, SQL, Python.</br>
 
 <h2>💬 Let's chat!</h2>
 <br>Find me on LinkedIn</br> 
