@@ -1,6 +1,6 @@
 ### 💖 Hello world, I'm Luciana Silva! 
 
-A programming enthusiast of problem solving. Currently pursuing System Analysis and Development at PUCRS. <br>
+A programming enthusiast of problem solving. Currently studying System Analysis and Development at PUCRS. <br>
 Passionate about technology, I am always looking to learn new skills to keep updated in information technology.
 
 <div>
