@@ -1,7 +1,7 @@
 ### 💖 Hello world, I'm Luciana Silva! 
 
-A programming enthusiast of problem solving. <br>
-Currently pursuing System Analysis and Development at PUCRS. Passionate about technology, I am always looking to learn new skills to keep updated in information technology.
+A programming enthusiast of problem solving. Currently pursuing System Analysis and Development at PUCRS. <br>
+Passionate about technology, I am always looking to learn new skills to keep updated in information technology.
 
 <div>
   <a href="htpps://github.com/lucianakaroli">
