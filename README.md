@@ -1,6 +1,6 @@
-### 💖 Hi there, I'm Luciana Silva! 
+### 💖 Hello world, I'm Luciana Silva! 
 
-Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving. <br>
+A programming enthusiast of problem solving. <br>
 Currently pursuing System Analysis and Development at PUCRS. Passionate about technology, I am always looking to learn new skills to keep updated in information technology.
 
 <div>
