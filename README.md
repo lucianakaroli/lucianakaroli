@@ -12,8 +12,11 @@ Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving
 <div style="display: inline_block"><br>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,nodejs,figma,git)](https://skillicons.dev)
-  
+
+##
+
 </div>
-  <a href="htpps://www.instagram.com/luhkaroli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white> 
-target="_blank"></a>
+  <a href="htpps://www.instagram.com/luhkaroli" target="_blank"<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white> target="_blank"></a>
+  <a href="mailto:lucianakarolif@gmail.com"<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white> target="_blank"></a>
+  <a href="htpps://linkedin.com/in/lucianakaroli" target="_blank"<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
