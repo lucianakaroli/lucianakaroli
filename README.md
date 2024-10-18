@@ -1,5 +1,4 @@
 ### 💖 Hi there, I'm Luciana Silva! 
-### 👩‍💻 FullStack Developer | Software Engineer
 
 Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving. Currently pursuing System Analysis and Development at PUCRS. Passionate about technology, I am always looking to learn new skills to keep updated in information technology.
 
