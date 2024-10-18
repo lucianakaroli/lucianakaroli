@@ -9,15 +9,11 @@ Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianakaroli&layout=compact&langs_count=16&theme=dracula">
 </div>
 
-
-<h2>📚 What I'm up to</h2>
-<br>🎓 Enhancing my development skills at Udemy.</br>
-<br>🔭 Working on awesome projects at PUCRS.</br>
-
-
-<h2>🎲 Technologies I'm learning</h2>
-<br>💻 JavaScript, TypeScript, React, Node.js, SQL, Python.</br>
-
-<h2>💬 Let's chat!</h2>
-<br>Find me on LinkedIn</br> 
-<br>Or shoot me an email: lucianakarolif@gmail.com</br>
+<div style="display: inline_block"><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,nodejs,figma,git)](https://skillicons.dev)
+  
+</div>
+  <a href="htpps://www.instagram.com/luhkaroli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white> 
+target="_blank"></a>
+</div>
