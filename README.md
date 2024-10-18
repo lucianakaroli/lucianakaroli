@@ -15,8 +15,9 @@ Hello world! 💻 I'm Luciana Silva, a programming enthusiast of problem solving
 
 ##
 
+<div>
+  <a href="https://www.instagram.com/luhkaroli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucianakarolif@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/lucianakaroli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  <a href="htpps://www.instagram.com/luhkaroli" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
-  <a href = "mailto:lucianakarolif@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="htpps://linkedin.com/in/lucianakaroli" target="_blank"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
